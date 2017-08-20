@@ -1,0 +1,1 @@
+django-accounts==0.3.4
